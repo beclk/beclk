@@ -1,4 +1,4 @@
-# Hey there, my name is Lucas Beck ##
+# Hey there! My name is Lucas Beck ##
 
 ## 👋 About me 
 I am a brazilian student, who started the dev journey with Python and HTML5, through which I'm building my fundamental knowledge. I am currently studying Computer Science in La Salle University, pursuiting my Graduation degree.
