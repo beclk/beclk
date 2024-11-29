@@ -12,22 +12,22 @@ beckgit@gmail.com
 ##
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LucasBeck&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=beclk&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LucasBeck&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=beclk&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LucasBeck&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=beclk&show_icons=true&theme=dark&include_all_commits=true" />
 </picture>
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBeck&theme=dark&layout=compact&langs_count=16"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beclk&theme=dark&layout=compact&langs_count=16"/>
 
 ## 🧠 Languages 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Beck-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Beck-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="beclk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="beclk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
@@ -40,7 +40,7 @@ beckgit@gmail.com
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasBeck/LucasBeck/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasBeck/LucasBeck/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beclk/beclk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beclk/beclk/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasBeck/LucasBeck/output/github-contribution-grid-snake.svg">
 </picture>
