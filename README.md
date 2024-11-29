@@ -1,7 +1,9 @@
 # Hey there, my name is Lucas Beck ##
 
 ## 👋 About me 
-I am a brazilian student, who started the dev journey with Python and HTML5, through which I'm building my fundamental knowledge. I am currently studying Computer Science in La Salle University, pursuiting my Bachelor’s degree
+I am a brazilian student, who started the dev journey with Python and HTML5, through which I'm building my fundamental knowledge. I am currently studying Computer Science in La Salle University, pursuiting my Graduation degree.
+
+I am always learning new features and searching for more challenges in this area. I have a passion for learning new things and applying this knowledge to create innovative solutions
 
 ## 🌱 Currently
 
@@ -9,22 +11,16 @@ I am working with Python, OOP projects and HTML5.
 
 ## ✉️ Contact Me
 beckgit@gmail.com
-##
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=beclk&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=beclk&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=beclk&show_icons=true&theme=dark&include_all_commits=true" />
-</picture>
-
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beclk&theme=dark&layout=compact&langs_count=16"/>
-
 ## 🧠 Skills 
+
+### Github Stats
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=beclk&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&theme=dark" alt="GitHub stats">
+
+  <a href="https://github.com/beclk/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beclk&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=16&show_icons=true&theme=dark" alt="Most Used Languages">
+  </a>
+</div>
 
 ### Languages
 <div style="display: inline_block"><br>
