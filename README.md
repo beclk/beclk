@@ -1,7 +1,7 @@
 # Hey there, my name is Lucas Beck ##
 
 ## 👋 About me 
-I started my dev journey with Python and HTML5, through which I am building my fundamental knowledge. I am currently studying Computer Science in La Salle University, pursuiting my Bachelor’s degree
+I am a brazilian student, who started the dev journey with Python and HTML5, through which I'm building my fundamental knowledge. I am currently studying Computer Science in La Salle University, pursuiting my Bachelor’s degree
 
 ## 🌱 Currently
 
@@ -24,12 +24,26 @@ beckgit@gmail.com
 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beclk&theme=dark&layout=compact&langs_count=16"/>
 
-## 🧠 Languages 
+## 🧠 Skills 
+
+### Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="beclk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="beclk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+##
+
+### Dev Tools
+<div style="display: inline_block"><br>
+  <img align="center" alt="beclk-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> 
+  <img align="center" alt="beclk-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="beclk-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+  <img align="center" alt="beclk-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img align="center" alt="beclk-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+            
+</div>
+          
 ##
 
 <div> 
