@@ -1,9 +1,11 @@
 # Hey there! My name is Lucas Beck ##
 
 ## 👋 About me 
-I am a brazilian student, who started the dev journey with Python and HTML5, through which I'm building my fundamental knowledge. I am currently studying Computer Science in La Salle University, pursuiting my Graduation degree.
+I am a brazilian student, who started the dev journey with Python, through which I'm building my fundamental knowledge. I am currently studying Computer Science in Unilasalle, pursuiting my Graduation degree.
 
-I am always learning new features and searching for more challenges in this area. I have a passion for learning new things and applying this knowledge to create innovative solutions
+Motivated Data Analyst seeking new challenges. I bring a strong skill set including Python, SQL, Data Analysis and advanced expertise in Power BI. I am eager to develop my data analytics skills. Committed to constantly developing and refinig my knowledge in data analysis.
+
+I am always learning new features and searching for more challenges in this area. I have a passion for learning new things and applying this knowledge to create innovative solutions.
 
 ## 🌱 Currently
 
