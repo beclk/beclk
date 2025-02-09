@@ -9,7 +9,7 @@ I am always learning new features and searching for more challenges in this area
 
 ## 🌱 Currently
 
-I am working with Python, OOP projects and HTML5.
+I am working with Python, OOP projects, HTML5 and data analysis 
 
 ## ✉️ Contact Me
 beckgit@gmail.com
@@ -39,6 +39,7 @@ beckgit@gmail.com
   <img align="center" alt="beclk-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="beclk-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" alt="beclk-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+  <img align="center" alt="beclk-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
             
 </div>
           
